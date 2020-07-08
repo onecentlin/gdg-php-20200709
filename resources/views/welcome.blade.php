@@ -81,18 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    GDG x PHP
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://console.cloud.google.com/">Google Cloud Platform</a>
+                    <a href="https://cloud.google.com/compute/docs/regions-zones">Regions &amp; Zones</a>
+                    <a href="https://cloud.google.com/appengine/docs/standard/php7/config/appref">app.yaml</a>
                 </div>
             </div>
         </div>
