@@ -17,4 +17,5 @@
 /vendor/
 
 # Customize ignore for demo code
+.env
 app.example.yaml
